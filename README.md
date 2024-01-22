@@ -1,10 +1,10 @@
 # VARIATIONAL AUTOENCODER
 
 Groupe :
-BOUTAUD DE LA COMBE Baptiste
-BOUSSOUF Noâm
-FAUCHEUX Jérôme
-PU Zhenyu
+BOUTAUD DE LA COMBE Baptiste  
+BOUSSOUF Noâm  
+FAUCHEUX Jérôme  
+PU Zhenyu  
 
 
 Ce répertoire est constituée du **support de présentation** utilisé lors de la soutenance du 22/01/2024 sur les Autoencodeurs variationnels. Ainsi que d'un **Notebook Jupyter** illustrant une application sur le **dataset MNIST** d'un VAE implémenté sur PyTorch.
