@@ -18,4 +18,6 @@ Enfin on y trouve un autre **Notebook Jupyter** illustrant une application d'un 
 **Git implémentant un VAE** : https://github.com/Robotmurlock/VariationalAutoEncoder?tab=readme-ov-file&fbclid=IwAR2jQJBRC92r6AZP7Cg_IaNvXzh-fv3ScqbrUxT7LKZRpnfu_qlb7vEk-Ys  
 **Sovit Ranjan Rath**, Face Image Generation using Variational Autoencoder and PyTorch : https://debuggercafe.com/face-image-generation-using-convolutional-variational-autoencoder-and-pytorch/?fbclid=IwAR3yNl2NqDYRlVElbrMRrGvWu4y11GI9r5NIqyPiaLlQyrV1W3h3JMq5e6Y  
 **Geeks for Geeks**, Role of KL-divergence in Variational Autoencoders : https://www.geeksforgeeks.org/role-of-kl-divergence-in-variational-autoencoders/  
- 
+**Qingyang Tan, Lin Gao1, Yu-Kun Lai and Shihong Xia1**, "Variational Autoencoders for Deforming 3D Mesh Models": https://arxiv.org/abs/1709.04307
+**Jacob Walker, Carl Doersch, Abhinav Gupta and Martial Hebert**, "An Uncertain Future: Forecasting from Static Images using Variational Autoencoders": https://arxiv.org/abs/1606.07873
+**Manuel Lopez-Martin, Belen Carro, Antonio Sanchez-Esguevillas and Jaime Lloret**, "Conditional Variational Autoencoder for Prediction and Feature Recovery Applied to Intrusion Detection in IoT"
